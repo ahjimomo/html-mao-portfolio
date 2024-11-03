@@ -1,0 +1,31 @@
+/* adjust dimensions of images */
+img {
+  height: 200px;
+  width: 200px;
+}
+
+/* Update all class.color-title weight to normal */
+.color-title {
+  font-weight: normal;
+}
+
+/* Update colour of text accordingly */
+#red {
+  color: red;
+}
+
+#blue {
+  color: skyblue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: darkgreen;
+}
+
+#yellow {
+  color: yellow;
+}
